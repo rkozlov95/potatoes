@@ -96,7 +96,7 @@ header {
 }
 
 .playpause {
-    background-image: url(/img/play_video.svg);
+    background-image: url(/img/Play_video.svg);
     background-repeat: no-repeat;
     width: 70px;
     height: 70px;
@@ -111,7 +111,7 @@ header {
 }
 
 .playpause:hover {
-  	background-image: url(/img/play_video_hover.svg);
+  	background-image: url(/img/Play_video_hover.svg);
     background-repeat: no-repeat;
     width: 70px;
     height: 70px;
